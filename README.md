@@ -22,7 +22,15 @@ behaviors using unsupervised machine learning.
 └── README.md
 ```
 
-## Data
+
+## Dataset
+
+This project uses the **Netflix 2025: User Behavior Dataset (210K+ Records)** created by **Sayeeduddin** on Kaggle.
+
+- **Source:** https://www.kaggle.com/datasets/sayeeduddin/netflix-2025user-behavior-dataset-210k-records
+- **License:** CC0: Public Domain
+
+The dataset is synthetically generated to simulate realistic Netflix user behavior and includes six interconnected tables containing user profiles, watch history, movie metadata, recommendation logs, search logs, and reviews. It is designed for data science education and machine learning practice. :contentReference[oaicite:0]{index=0}
 
 The notebook expects two CSV files in `data/`:
 
